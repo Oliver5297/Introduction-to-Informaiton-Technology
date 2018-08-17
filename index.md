@@ -87,8 +87,8 @@ The second challenge when developing this app is designing, programming and manu
 
 The first software required to create Find MyCar app is a program that can build the app such as Appery.io. Appery. Io allows users to build their app across smart devices such as Apple, Androids and Window phones on a cloud database. Second software is JavaScript to create app languages. However, as the app aims to be multi-cultural, HTML software will be also required to be used along with JavaScript as it allows the app to be available across different platforms. The third software is Appy Pie, where they allow GPS system to be built into the Find MyCar app. The last software is PhoneGap. PhoneGap allows the programmers to translate code from JavaScript, HTML5, CSS and allow them share the completed app with the team. 
 The technologies required to create and test the Find MyCar app are: 
-1.	A computer or a laptop to program and code the app
-2.	An apple phone and an android phone to test the app before launching 
+        1.	A computer or a laptop to program and code the app
+        2.	An apple phone and an android phone to test the app before launching 
 Photoshop is also required to create the logo for Find MyCar app. 
 
 ### Skills Required: 
