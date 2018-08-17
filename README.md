@@ -30,7 +30,7 @@ I expect to learn a lot of information with a lot of problem solving skills both
 ----------------------------------------------------------------------------------------------------------------------------------------------
 # Ideal Job -  Cyber Security Leader
 
-![Image of Job Description](https://github.com/Oliver5297/Personal-Profile/blob/master/Picture1.png)
+![picture1](https://user-images.githubusercontent.com/41882733/44255728-514bc580-a24a-11e8-9dcc-d42f3b47f809.png)
 
 ### Job Description: 
 
@@ -51,8 +51,7 @@ My plan of attack and to make sure that I obtain these skills during my study is
 
 According to Myer-Briggs test, my personality type is: Introversion, Sensible, Thinking, Judging (ISTJ). Base on the given information, I think these results are accurate when describing my personality. The results stated that I like to work systematic, able to think thing through and do not have good impression of people who tends to neglect or affects the whole team’s committed goal. Additionally, I tend to be serious when I meet new people, however, those whose knows me well, tend to find a lot of humour beneath the serious face. I am also steady and purposeful, which allows me to exhibit great attention to details that would help in long term commitments and lead the team to achieve the goals. I think these results show me that I am quite serious when it comes to achieving a particular goal in a team, I might get angry and frustrated if some team members delay the whole team’s progress or making changes to the planned approach. Furthermore, I should take into considerations and be more warm-hearted when forming a new team and also remind myself that I should be relaxed with my team members, instead of stressing or frustrated with them if the goal or the processes are not met. 
 
-
-![Image of Multiple Intelligence](https://github.com/Oliver5297/Personal-Profile/blob/master/multiple-intelligences-5.jpg)
+![multiple-intelligences-5](https://user-images.githubusercontent.com/41882733/44255511-b4892800-a249-11e8-9357-2030941c3da7.jpg)
 
 One of the learning styles assessment that I chose was from: “How to Study”. According to this test, I am an Auditory, Visual, Tactile and Kinesthetics learner. This means that I able to understand and remember the information at my best ability when the information is present in written language format or through diagrams and concept maps, while, the instructor is speaking at the same time. Along with presenting physical information, I also require to be physically active while trying to remember the information and make extensive use of the internet. I think these results would influence my behaviours when working in team such as actively drawing and explaining the information of what I know out loud to the team members. Furthermore, I predict that I would not able to sit with my team members to research the information at a particular place as I require to be physically active when learning new information or construct models to aid the learning process. I should be aware of all different learning styles and personalities across my team members to ensure that everyone is on the same page, there may be someone in my team doesn’t like to learn through visual or auditory, or someone may require more time to process the information. Therefore, I should be considerate, respect all of my team members and acknowledge that not everyone has the same learning styles. 
 
@@ -61,7 +60,7 @@ Base on the Big Five personality test report, I am a traditionalist, conscientio
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 # Project Ideas
 
-![Image of Magnifying Glasses](https://github.com/Oliver5297/Personal-Profile/blob/master/images.jpeg)
+![images](https://user-images.githubusercontent.com/41882733/44255658-29f4f880-a24a-11e8-8616-618d3ce4035d.jpeg)
 
 ### Overview: 
 
