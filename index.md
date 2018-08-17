@@ -30,6 +30,8 @@ I expect to learn a lot of information with a lot of problem solving skills both
 ----------------------------------------------------------------------------------------------------------------------------------------------
 # Ideal Job -  Cyber Security Leader
 
+![Image of Job Description](https://github.com/Oliver5297/Personal-Profile/blob/master/Picture1.png)
+
 ### Job Description: 
 
 This position is a Cyber Security Lead, specialising in Incidnet Response Analysis. This means that I am collecting and analysisng, and summerising the data to see whether if there are suspicious activities on the internet. 
