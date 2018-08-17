@@ -100,6 +100,7 @@ There are specific skills set that required an app developer to obtain before cr
 
 If Find MyCar app entered the market successfully, it would protect the buyers from experiencing anxiety, and stress as they are now able to find their cars anywhere, anytime, even in a big car park. Especially, this app would become essential to drivers whose do not have a good memory of where they park their cars or have spent the effort to remember where they park the car at what levels and rows. Furthermore, the app also helps the police able to capture the offenders and stolen cars much more easily compare to the current methods. Additionally, if Find MyCar app able to grow rapidly across the world, the company will work along with different car companies to install the micro-chip as part during car manufacturing process. This would allow the buyers to monitor every single information available to the owners such as fuel status, registration day, locations history. The possessors would also be able to control their car’s build in system such as air conditioning, heater, music and radio from the Find MyCar app. 
 
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 # Micro-Credentials
